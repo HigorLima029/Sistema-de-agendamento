@@ -23,6 +23,8 @@ Este é um sistema web desenvolvido para facilitar o agendamento, controle e aco
 - **Técnico:** visualiza e atualiza seus agendamentos
 
 ---
+# 🤖IA últilizada para deploy do sistema e polimento do código
+https://lovable.dev/projects/3fdc9cb1-36c9-4afb-89cc-60335e72f484
 
 ## 🧱 Tecnologias Utilizadas
 
